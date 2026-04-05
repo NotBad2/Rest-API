@@ -1,4 +1,4 @@
-# MyApp - API REST para Gestão de Cinemas
+# MyApp - API REST para Gestão de Cinemas 
 
 Uma API REST desenvolvida em Node.js com Express e MongoDB para gestão de cinemas, filmes e utilizadores.
 
